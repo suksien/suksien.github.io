@@ -76,7 +76,7 @@ figcaption {
     }
 
 a {
-    color              : #2a54f5;
+    color              : #DE3163; /*#2a54f5;*/
     text-decoration    : none;
     /*border-bottom: 0px blue dotted;*/
     -webkit-transition : all 0.3s ease 0s;
@@ -180,7 +180,7 @@ button:focus,
     }
 
 .left-col-block {
-    width      : 50%;
+    width      : 36%;
     text-align : center;
     overflow   : hidden;
     position   : fixed;
@@ -188,7 +188,7 @@ button:focus,
     }
 
 .right-col-block {
-    width      : 50%;
+    width      : 64%;
     position   : absolute;
     right      : 0;
     box-shadow : -10px -10px 30px rgba(0, 0, 0, 0.23);
@@ -267,7 +267,7 @@ button:focus,
     z-index             : -1;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../img/img-profile.jpg);
+    background-image    : url(../img/ynp_tenaya_lake.jpg);
     background-size     : cover;
     background-position : center top;
     }
@@ -299,14 +299,14 @@ button:focus,
     }
 
 .header .content h1 {
-    font-size   : 36px;
+    font-size   : 40px;
     color       : #ffffff;
     line-height : 1;
     margin      : 0;
     }
 
 .header .content p {
-    font-size : 18px;
+    font-size : 20px;
     color     : #ffffff;
     }
 
@@ -327,14 +327,14 @@ button:focus,
 
 .header .content .social-icon li a {
     display       : block;
-    font-size     : 12px;
+    font-size     : 20px;
     color         : #ffffff;
     width         : 34px;
     height        : 34px;
     line-height   : 33px;
     text-align    : center;
     border-radius : 100%;
-    border        : 2px solid rgba(255, 255, 255, .2);
+    border        : 2px solid rgba(255, 255, 255, .3);
     }
 
 .header .content .social-icon li a:hover {
@@ -367,7 +367,7 @@ button:focus,
 
 .expertise-item h3 {
     margin-bottom : 5px;
-    font-weight   : 700;
+    font-weight   : 500;
     }
 
 /*-------------------
@@ -472,7 +472,7 @@ button:focus,
 .content-item h3 {
     margin         : 0 0 10px;
     line-height    : 1;
-    font-weight    : bold;
+    font-weight    : 550;
     text-transform : uppercase;
     }
 
