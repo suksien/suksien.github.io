@@ -282,8 +282,8 @@ button:focus,
     background : linear-gradient(
             -30deg,
             rgba(42, 84, 245, 0.5) 0%,
-            rgba(42, 84, 245, 0.5) 28%,
-            transparent 60%,
+            rgba(42, 84, 245, 0.5) 0%,
+            transparent 100%,
             transparent 100%
     );
     }
