@@ -1,0 +1,2 @@
+1. Separate pages for research
+2. Make link open as separate tabs
